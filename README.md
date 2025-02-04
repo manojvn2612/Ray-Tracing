@@ -20,25 +20,19 @@ Ray tracing is a technique for rendering images by simulating the way light inte
 ## Installation
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository_url>
-cd ray-tracing-sdl
+git clone https://github.com/manojvn2612/Ray-Tracing.git
+cd Shadow_Casting
 ```
 
 ### Step 2: Install SDL
-On Debian-based systems (Ubuntu):
-```bash
-sudo apt-get install libsdl3-dev
-```
-On MacOS with Homebrew:
-```bash
-brew install sdl3
-```
+
 On Windows:
 - Download the SDL development package from [https://libsdl.org/](https://libsdl.org/).
 
 ### Step 3: Compile the Program
+use Visual Studio C++ version 17 or above
 ```bash
-g++ -o ray_tracer ray_tracing.cpp -lSDL3 -lm
+g++ -o ray_tracer Shadowcasting.cpp -lSDL3 -lm
 ```
 
 ## Usage
