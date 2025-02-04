@@ -1,0 +1,19 @@
+﻿  Shadow_casting.cpp
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(30,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(31,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(33,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(34,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(35,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(37,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(38,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(39,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(55,15): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(55,15): warning C4244:         with
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(55,15): warning C4244:         [
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(55,15): warning C4244:             _Ty=double
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(55,15): warning C4244:         ]
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(76,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(77,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(78,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Manoj\Projects\C,C++\Shadow_casting\Shadow_casting.cpp(139,17): warning C4804: '<': unsafe use of type 'bool' in operation
+  Shadow_casting.vcxproj -> D:\Manoj\Projects\C,C++\Shadow_casting\x64\Debug\Shadow_casting.exe
