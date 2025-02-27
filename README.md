@@ -52,6 +52,8 @@ This will launch a window displaying the ray-traced graphics.
 - **Initialization:** Sets up SDL and creates a window.
 - **Ray Calculation:** Mathematical functions to trace rays and detect object intersections.
 - **Rendering:** Draws pixels on the window surface based on ray tracing results.
+![Screenshot 2025-02-27 234613](https://github.com/user-attachments/assets/df11aff8-0a61-40b3-aff7-a3ce9281c6cc)
+
 
 ### Important Files
 - `ray_tracing.cpp`: Main source file containing the implementation.
